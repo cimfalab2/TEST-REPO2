@@ -8,7 +8,6 @@ function CWE_476() { // NULL_POINTER
    name: 'test',
    age: 15,
    size: 105,
-   name: 'noname',
-   size: 105
+   name: 'noname'
  }
  
